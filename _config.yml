@@ -16,3 +16,4 @@ include:
 theme: jekyll-theme-tactile
 title: [Svelte.js Workshop]
 description: [Introduction to Svelte.js]
+show_downloads: [true]
