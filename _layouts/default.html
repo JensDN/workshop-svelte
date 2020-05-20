@@ -11,6 +11,9 @@
 </head>
 
 <body>
+<div class="parallax">
+    <canvas id="background"></canvas>
+</div>
 
 <!-- HEADER -->
 <div id="header_wrap" class="outer">
@@ -59,5 +62,21 @@
     ga('send', 'pageview');
 </script>
 {% endif %}
+<!--background from THPACE-->
+<script src="https://unpkg.com/thpace">
+</script>
+<script>
+    const canvas = document.getElementById('background');
+
+
+    const settings = {
+        colors: ['#c0e3f5', '#424959', '#243c4f'],
+        triangleSize: 100
+    };
+
+    Thpace.create(canvas, settings);
+    //Easy
+
+</script>
 </body>
 </html>
