@@ -78,3 +78,4 @@ Finally we can change our ContactCard to link our variables to the component pro
 />
 ```
 
+[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

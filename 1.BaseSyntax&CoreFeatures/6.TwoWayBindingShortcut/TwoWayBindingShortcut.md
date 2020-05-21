@@ -23,3 +23,4 @@ In our example we can rewrite our input like this
 
 This sets up two way dataflow, technically you could use this feature for any binding of html properties. But it's not recommended without a good reason. Text input in a form is a valid reason but sometimes its better to use event: handlers.
 
+[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

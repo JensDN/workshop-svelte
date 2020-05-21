@@ -20,3 +20,4 @@ If the property of an svelte component and the variable that you assign to it ha
 -->
 ```
 
+[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

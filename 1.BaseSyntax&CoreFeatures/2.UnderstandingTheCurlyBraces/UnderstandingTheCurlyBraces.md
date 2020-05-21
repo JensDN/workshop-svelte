@@ -110,3 +110,5 @@ After that we make a link to the function incrementAge with the functionality of
 ```
 
 Now when we click on the button we should see the age increase.
+
+[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

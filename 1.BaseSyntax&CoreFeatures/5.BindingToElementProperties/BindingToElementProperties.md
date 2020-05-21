@@ -40,3 +40,5 @@ And finally we add our on:event directive in the HTML section.
 We see that in the parameter of nameInput we write the global event object. Together with the target feature,  JavaScript knows from which element he need to pull the properties. 
 
 So now we have a 2 directional data flow. When you play around you'll see the changes done to our name variable.
+
+[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()
