@@ -1,19 +1,19 @@
 # Dit is de index van workshop-svelte.
 
 ## Base Syntax & Core Features
-[Intro](workshop-svelte/1.BaseSyntax&CoreFeatures/1.Intro/Intro.html) <br>
-[Understanding The Curly Braces](workshop-svelte/1.BaseSyntax&CoreFeatures/2.UnderstandingTheCurlyBraces/UnderstandingTheCurlyBraces.html) <br>
-[Reactive Variables](workshop-svelte/1.BaseSyntax&CoreFeatures/3.ReactiveVariables/ReactiveVariable.html) <br>
-[More Reactivity](workshop-svelte/1.BaseSyntax&CoreFeatures/4.MoreReactivity/MoreReactivity.html) <br>
-[Binding To Element Properties](workshop-svelte/1.BaseSyntax&CoreFeatures/5.BindingToElementProperties/BindingToElementProperties.html) <br>
-[Two Way Binding Shortcut](workshop-svelte/1.BaseSyntax&CoreFeatures/6.TwoWayBindingShortcut/TwoWayBindingShortcut.html) <br>
-[Multiple Components](workshop-svelte/1.BaseSyntax&CoreFeatures/7.MultipleComponents/MultipleComponents.html) <br>
-[Component Communication Via Props](workshop-svelte/1.BaseSyntax&CoreFeatures/8.ComponentCommunicationViaProps/ComponentCommicationViaProps.html) <br>
-[More Bindings](workshop-svelte/1.BaseSyntax&CoreFeatures/9.MoreBindings/MoreBindings.html) <br>
-[Self-Extending Properties](workshop-svelte/1.BaseSyntax&CoreFeatures/10.SelfExtendingProperties/SelfExtendingProperties.html) <br>
-[Outputting HTML Content](workshop-svelte/1.BaseSyntax&CoreFeatures/11.OutputtingHTMLcontent/OutputtingHTMLContent.html) <br>
-[Dynamic Classes](workshop-svelte/1.BaseSyntax&CoreFeatures/12.DynamicClasses/Dynamic Classes.html) <br>
-[Ending](workshop-svelte/1.BaseSyntax&CoreFeatures/13.End/End.html) <br>
+[Intro](1.BaseSyntax&CoreFeatures/1.Intro/Intro.html) <br>
+[Understanding The Curly Braces](1.BaseSyntax&CoreFeatures/2.UnderstandingTheCurlyBraces/UnderstandingTheCurlyBraces.html) <br>
+[Reactive Variables](1.BaseSyntax&CoreFeatures/3.ReactiveVariables/ReactiveVariable.html) <br>
+[More Reactivity](1.BaseSyntax&CoreFeatures/4.MoreReactivity/MoreReactivity.html) <br>
+[Binding To Element Properties](1.BaseSyntax&CoreFeatures/5.BindingToElementProperties/BindingToElementProperties.html) <br>
+[Two Way Binding Shortcut](1.BaseSyntax&CoreFeatures/6.TwoWayBindingShortcut/TwoWayBindingShortcut.html) <br>
+[Multiple Components](1.BaseSyntax&CoreFeatures/7.MultipleComponents/MultipleComponents.html) <br>
+[Component Communication Via Props](1.BaseSyntax&CoreFeatures/8.ComponentCommunicationViaProps/ComponentCommicationViaProps.html) <br>
+[More Bindings](1.BaseSyntax&CoreFeatures/9.MoreBindings/MoreBindings.html) <br>
+[Self-Extending Properties](1.BaseSyntax&CoreFeatures/10.SelfExtendingProperties/SelfExtendingProperties.html) <br>
+[Outputting HTML Content](1.BaseSyntax&CoreFeatures/11.OutputtingHTMLcontent/OutputtingHTMLContent.html) <br>
+[Dynamic Classes](1.BaseSyntax&CoreFeatures/12.DynamicClasses/Dynamic Classes.html) <br>
+[Ending](1.BaseSyntax&CoreFeatures/13.End/End.html) <br>
 
 ## Working With Conditionals & Loops
 [Intro]() <br>
