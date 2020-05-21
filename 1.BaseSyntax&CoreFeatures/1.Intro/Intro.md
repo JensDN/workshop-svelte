@@ -9,5 +9,6 @@ example:
 
 
 
-|[INDEX](../1.BaseSyntax&CoreFeatures/)|[|>](1.BaseSyntax&CoreFeatures/1.Intro/Intro.html)
+|[INDEX](../)
+[|>](1.BaseSyntax&CoreFeatures/1.Intro/Intro.html)
 
