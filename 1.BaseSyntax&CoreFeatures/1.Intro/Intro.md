@@ -9,5 +9,5 @@ example:
 
 
 
-|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>](workshop-svelte/1.BaseSyntax&CoreFeatures/1.Intro/Intro.html)
+|[INDEX](1.BaseSyntax&CoreFeatures/)|[|>](1.BaseSyntax&CoreFeatures/1.Intro/Intro.html)
 
