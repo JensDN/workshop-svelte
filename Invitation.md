@@ -1,11 +1,13 @@
 # Svelte Workshop
 
 ##### presented by :  Jens De Neef
+<br>
 
-> Always wanted to cybernettically enhance your webapps?  Feel the power of a compiler instead of a framework in frontend? Have no virtual dom ?!
->
-> Wel you arrived at the right place. At my workshop i'm going to introduce you new way of writing reactive code with a new way of code approach. Suited for beginners or veterans.
->
+Always wanted to cybernettically enhance your webapps?  Feel the power of a compiler instead of a framework in frontend? Have no virtual dom ?!
+
+ Wel you arrived at the right place. At my workshop i'm going to introduce you new way of writing reactive code with a new way of code approach. Suited for beginners or veterans.
+ <br>
+
 
 #I  introduce to you : 
 
