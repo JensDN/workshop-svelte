@@ -2,13 +2,16 @@
 
 ##### presented by :  Jens De Neef
 
-Always wanted to cybernettically enhance your webapps?  Feel the power of a compiler instead of a framework in frontend? Have no virtual dom ?!
-
-Wel you arrived at the right place. At my workshop i'm going to introduce you new way of writing reactive code with a new way of code approach. Suited for beginners or veterans.
+> Always wanted to cybernettically enhance your webapps?  Feel the power of a compiler instead of a framework in frontend? Have no virtual dom ?!
+>
+> Wel you arrived at the right place. At my workshop i'm going to introduce you new way of writing reactive code with a new way of code approach. Suited for beginners or veterans.
+>
 
 I  introduce to you : 
 
- ![svelte](https://i2.wp.com/css-tricks.com/wp-content/uploads/2020/01/svelte-radiant.png?fit=1200%2C600&ssl=1)
+ <img src="https://i2.wp.com/css-tricks.com/wp-content/uploads/2020/01/svelte-radiant.png?fit=1200%2C600&amp;ssl=1" alt="svelte" style="zoom: 67%;" />
+
+## Svelte
 
 Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in  the *browser*, Svelte shifts that work into a *compile step* that happens when you build your app.
 
