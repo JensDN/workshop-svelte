@@ -8,7 +8,7 @@
 
 `I  introduce to you :` 
 
- ![svelte](https://camo.githubusercontent.com/56585f80ea08a4198ab8e226daeca2cfb651bda4/68747470733a2f2f7376656c74656a732e6769746875622e696f2f6173736574732f62616e6e65722e706e67)
+ ![svelte](https://i2.wp.com/css-tricks.com/wp-content/uploads/2020/01/svelte-radiant.png?fit=1200%2C600&ssl=1)
 
 Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in  the *browser*, Svelte shifts that work into a *compile step* that happens when you build your app.
 
