@@ -7,7 +7,7 @@
 > Wel you arrived at the right place. At my workshop i'm going to introduce you new way of writing reactive code with a new way of code approach. Suited for beginners or veterans.
 >
 
-I  introduce to you : 
+#I  introduce to you : 
 
  <img src="https://i2.wp.com/css-tricks.com/wp-content/uploads/2020/01/svelte-radiant.png?fit=1200%2C600&amp;ssl=1" alt="svelte" style="width: 30vw;display: flex;justify-content: center;" />
 
@@ -19,11 +19,13 @@ Instead of using techniques like virtual DOM diffing, Svelte writes code that  s
 
 Let's discover this world together on monday 25/05/20 - 13.00->17.00. You only need a keyboard and a listening ear.
 
-#### Ow,... and also <u>**node.js/npm package manager**</u>. Try to install it before we begin.
+#### Ow,... and also <u>**node.js/npm package manager**</u>. Try to install it before we begin. 
+<br>
 
 |                                                    | ( Here are 3 quick links that can help you out :smiley: )    |                                                              |
 | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [NodeJS Download](https://nodejs.org/en/download/) | [How to install and use node in Windows, MAC/Linux](https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windows/) | [BeginnerGuide to NPM](https://www.sitepoint.com/beginners-guide-node-package-manager/) |
+<br>
 
 #### For the people who can't wait, here are some interesting link
 
