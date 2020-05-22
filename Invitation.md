@@ -29,7 +29,7 @@ Here are 3 quick links that can help you out
 [BeginnerGuide to NPM](https://www.sitepoint.com/beginners-guide-node-package-manager/) |
 
 
-#### For the people who can't wait, here are some interesting link
+#### For the people who can't wait, here are some interesting links
 
 | [Svelte.dev](https://svelte.dev/)        |
 | ---------------------------------------- |
