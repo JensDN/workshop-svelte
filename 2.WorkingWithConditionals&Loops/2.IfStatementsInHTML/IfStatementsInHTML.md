@@ -1,6 +1,6 @@
 # If statements in HTML 
 
-`UserCase :We want to display Contact card only when we have valid data in our App or maybe by pressing a button.`
+*UserCase :We want to display Contact card only when we have valid data in our App or maybe by pressing a button.*
 
 For this feature we need to output  our content <u>Conditionally</u> 
 
