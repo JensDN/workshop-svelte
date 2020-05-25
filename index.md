@@ -40,4 +40,7 @@
 ## Stores
 [Styles](6.Stores\Styles.html) <br>
 
-
+###Links I want to share.
+[Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) <br>
+[Presentation](https://rethinking-reactivity.surge.sh/#slide=1) <br>
+[Rich Harris](https://www.israel.yglfconf.com/post/meet-the-speaker-rich-harris) <br>
