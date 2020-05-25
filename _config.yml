@@ -14,6 +14,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-tactile
-title: [Svelte.js Workshops]
-description: [Introduction to Svelte.js]
+title: Svelte.js Workshops
+description: Introduction to Svelte.js
+show_downloads: true
 
