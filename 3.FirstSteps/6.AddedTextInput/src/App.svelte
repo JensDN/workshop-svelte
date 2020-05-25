@@ -10,26 +10,26 @@
   let description = "";
   let imageUrl = "";
 
-  let meetups = [
+  const meetups = [
     {
       id: "m1",
-      title: "Coding Bootcamp",
-      subtitle: "Learn to code in 2 hours",
+      title: "Workshop Svelte.js",
+      subtitle: "Learn to svelte in 4 hours",
       description:
-        "In this meetup, we will have some experts that teach you how to code!",
+              "In this workshop , we will have an first class expert that teach you how to svelte!",
       imageUrl:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Caffe_Nero_coffee_bar%2C_High_St%2C_Sutton%2C_Surrey%2C_Greater_London.JPG/800px-Caffe_Nero_coffee_bar%2C_High_St%2C_Sutton%2C_Surrey%2C_Greater_London.JPG",
-      address: "27th Nerd Road, 32523 New York",
+              "https://beeproger.com/app/uploads/2019/05/svelte-logo-horizontal.png",
+      address: "@becode",
       contactEmail: "code@test.com"
     },
     {
       id: "m2",
-      title: "Swim Together",
-      subtitle: "Let's go for some swimming",
-      description: "We will simply swim some rounds!",
+      title: "Sicko BDAY",
+      subtitle: "Let's go, Party!!!",
+      description: "Dansen, dansen!",
       imageUrl:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Olympic_swimming_pool_%28Tbilisi%29.jpg/800px-Olympic_swimming_pool_%28Tbilisi%29.jpg",
-      address: "27th Nerd Road, 32523 New York",
+              "https://cdn.pixabay.com/photo/2018/01/08/15/41/beer-pong-3069601_1280.png",
+      address: "Sicko Place",
       contactEmail: "swim@test.com"
     }
   ];
