@@ -3,9 +3,9 @@
 ##### presented by :  Jens De Neef
 <br>
 
-Always wanted to cybernettically enhance your webapps?  Feel the power of a compiler instead of a framework in frontend? Have no virtual dom ?!
+Always wanted to cybernettically enhance your web apps?  Feel the power of a compiler instead of a framework in frontend? Have no virtual DOM ?!
 
- Wel you arrived at the right place. At my workshop I'm going to show you new way of writing reactive code with a new way of code approach. Suited for beginners or veterans.
+ Wel you arrived at the right place. During my workshop  I will show you a new approach to write reactive code. Suited for beginners or veterans.
  <br>
 
 
@@ -15,14 +15,14 @@ Always wanted to cybernettically enhance your webapps?  Feel the power of a comp
 
 ## Svelte
 
-Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in  the *browser*, Svelte shifts that work into a *compile step* that happens when you build your app.
+Svelte is a radical new approach to building user interfaces. While traditional frameworks like React and Vue do the bulk of their work in  the *browser*, Svelte shifts that work into a *compile step* that happens when you build your app.
 
 Instead of using techniques like virtual DOM diffing, Svelte writes code that  surgically updates the DOM when the state of your app changes.
 
 Let's discover this world together on monday 25/05/20 - 13.00->17.00. You only need a keyboard and a listening ear.
 
 #### Ow,... and also <u>**node.js/npm package manager**</u>. Try to install it before we begin. 
-Here are 3 quick links that can help you out
+Here are 3 quick links that can help you out.
 
 [NodeJS Download](https://nodejs.org/en/download/) |
 [How to install and use node in Windows, MAC/Linux](https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windows/) |
