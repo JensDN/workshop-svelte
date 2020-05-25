@@ -50,4 +50,3 @@ As a little challenge, lets try binding our Job Title, Job description (in a tex
 
 *I will give some time to finish this, if you are done sooer, add some nice labels for each input*
 
-[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

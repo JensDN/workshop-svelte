@@ -59,4 +59,3 @@ And again we add a second button and use again the  element: directive on:eventn
 
 Now we click the button of Change Name will see that in our H1 tag also uppercaseName is changed. The reason for that is that svelte re-renders everything after the $: syntax if there is something changed. uppercaseName is now called a reactive variable.
 
-[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

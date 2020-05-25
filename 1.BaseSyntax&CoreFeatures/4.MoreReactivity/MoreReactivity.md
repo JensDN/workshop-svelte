@@ -28,4 +28,3 @@ In our previous example we have only had a look at a reactive variable but you c
 
 Svelte only will run the code after the $:  if the variable in your statement is changed. 
 
-[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

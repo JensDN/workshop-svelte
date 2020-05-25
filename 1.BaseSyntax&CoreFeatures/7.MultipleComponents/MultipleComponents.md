@@ -137,4 +137,3 @@ Finally we want to add some styling, remember that styling is Component scoped, 
 
 ```
 
-[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

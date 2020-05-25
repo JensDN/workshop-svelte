@@ -45,4 +45,3 @@ So if we write our code it would look something like this.
 
 And we get the same behaviour ;D
 
-[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()

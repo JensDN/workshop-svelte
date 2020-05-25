@@ -17,4 +17,3 @@ If you are in a certain scenario that you want your string as HTML content. Firs
 
  Now you could use HTML tags in your variable description and Svelte will display it with HTML functionality into your App.
 
-[<|]()|[INDEX](workshop-svelte/1.BaseSyntax&CoreFeatures/)|[|>]()
