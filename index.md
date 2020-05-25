@@ -16,52 +16,28 @@
 [Ending](1.BaseSyntax&CoreFeatures/13.End/End.html) <br>
 
 ## Working With Conditionals & Loops
-[Intro]() <br>
-[If Statements In HTML]() <br>````
-[If else & else if]() <br>
-[Outputting lists with each]() <br>
-[Each, else and extracting]() <br>
-[List and Keys]() <br>
-[A closer look at list-keys]() <br>
-[Ending]() <br>
+[Intro](2.WorkingWithConditionals&Loops\1.Intro\Intro.html) <br>
+[SetUp](2.WorkingWithConditionals&Loops\1.Intro\Setup.html) <br>
+[If Statements In HTML](2.WorkingWithConditionals&Loops\2.IfStatementsInHTML\IfStatementsInHTML.html) <br>
+[If else & else if](2.WorkingWithConditionals&Loops\3.IfElseElseIf\IfElseElseIf.html) <br>
+[Outputting lists with each](2.WorkingWithConditionals&Loops\4.OutputtingListsWithEach\OutputtingListWithEach.html) <br>
+[Each, else and extracting](2.WorkingWithConditionals&Loops\5.EachElseAndExtracting\EachElseAndExtracting.html) <br>
+[List and Keys](2.WorkingWithConditionals&Loops\6.ListAndKeys\ListAndKeys.html) <br>
 
-## A Closer Look at Reactivity
-[Intro]() <br>
-[Updating arrays and objects]() <br>
-[Event Modifiers]() <br>
-[Using inline functions]() <br>
-[Ending]() <br>
+
+## First Steps
+[Styles](3.FirstSteps\Styles.html) <br>
+
 
 ## Diving Deeper into Components
-[Intro]() <br>
-[Default Props]() <br>
-[Custom Events]() <br>
-[Slots]() <br>
-[Create an edit Components]() <br>
-[Communicating between Components]() <br>
-[More slots]() <br>
-[Adding a Modal]() <br>
-[Finishing the modal edit Process]() <br>
-[Ending]() <br>
+[Styles](4.ComponentDeepDive\Styles.html) <br>
+
 
 ## Binding & Forms
-[Intro]() <br>
-[Different Validation Solutions]() <br>
-[Adding Validation Output to TextInput]() <br>
-[Adding first Validation logic]() <br>
-[Finishing text input Validation]() <br>
-[Small Improvements]() <br>
-[Ending]() <br>
+[Styles](5.BindingsAndForms\Styles.html) <br>
+
 
 ## Stores
-[Intro]() <br>
-[Setting up a store]() <br>
-[Custom store for add and toggle fav]() <br>
-[Using stores in different components]() <br>
-[Meetup detail page]() <br>
-[Preparing the EDIT form]() <br>
-[Continuing work on Editing]() <br>
-[Adding delete functionality]() <br>
-[Adding a filter switch]() <br>
-[Ending]() <br>
+[Styles](6.Stores\Styles.html) <br>
+
 
